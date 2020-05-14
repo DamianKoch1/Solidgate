@@ -3,6 +3,6 @@ Solidgate is a 3D first-person stealth game, set in a prison. The protagonist is
 
 ![thumbnail](/Images/thumbnail.png)
 
-[Gameplay video](https://www.youtube.com/watch?v=Aml4akSJuFk)
+[Gameplay video](https://www.facebook.com/108075654010291/videos/185405822881402/)
 
 [itch.io](https://s4g.itch.io/solidgate)
