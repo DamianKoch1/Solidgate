@@ -1,3 +1,5 @@
+![thumbnail1](/Images/thumbnail1.png)
+
 # Solidgate
 
 Unreal Engine 4, Mainly Blueprints, C++
