@@ -10,6 +10,8 @@ As one of 2 programmers, I was mostly responsible for AI programming and AI - re
 the player, noises the guards react to and cameras that observe an area and alert guards,
 but also bugfixing and technical documentation.
 
+[Technical Design Document](https://docs.google.com/document/d/1j-HzLHAguSQrylGExriJ505GJG6VW1NoR-ytybt11J8/edit?usp=sharing)
+
 [Gameplay video](https://www.facebook.com/108075654010291/videos/185405822881402/)
 
 [itch.io](https://s4g.itch.io/solidgate)
