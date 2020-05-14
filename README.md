@@ -3,7 +3,7 @@ Solidgate is a 3D first-person stealth game, set in a prison. The protagonist is
 
 ![thumbnail](/Images/thumbnail.png)
 
-I was mostly responsible for AI programming and AI - related features such as hideouts for
+As one of 2 programmers, I was mostly responsible for AI programming and AI - related features such as hideouts for
 the player, noises the guards react to and cameras that observe an area and alert guards,
 but also bugfixing and technical documentation.
 
